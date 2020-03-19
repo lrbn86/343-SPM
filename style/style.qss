@@ -1,0 +1,25 @@
+QWidget#leftSide {
+}
+
+QWidget#rightSide {
+}
+
+QTextEdit#textArea {
+  background-color: black;
+  color: white;
+}
+
+QPushButton#runButton, QPushButton#stopButton {
+}
+
+QPushButton#runButton {
+  background-color: green;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+QPushButton#stopButton {
+  background-color: red;
+  padding: 5px;
+}
